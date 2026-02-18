@@ -2,7 +2,7 @@
 
 int main()
 {
-  double n = 7
+  double n = 7;
   for (int i = 0; i < 20; i++){
     n += 2;
     if (i % 3 = 0) {
